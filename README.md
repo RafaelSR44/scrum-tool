@@ -1,10 +1,10 @@
 # 🚀 Scrum Tool - Ferramenta de Gestão Ágil
-<p align="center">
+
 [![React](https://img.shields.io/badge/React-19.1.0-blue.svg)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4.15-38B2AC.svg)](https://tailwindcss.com/)
 [![Lucide React](https://img.shields.io/badge/Lucide%20React-0.525.0-orange.svg)](https://lucide.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-</p>
+
 ## 📋 Índice
 
 - [Visão Geral](#-visão-geral)
