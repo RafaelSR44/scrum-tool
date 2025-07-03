@@ -455,27 +455,6 @@ chore: manutenção geral
 - [ ] **Mobile App**: Aplicativo nativo React Native
 - [ ] **Integração Slack**: Bot para Slack integration
 
-## 📞 Suporte
-
-### Canais de Suporte
-
-- **Issues**: [GitHub Issues](https://github.com/seu-usuario/scrum-tool/issues)
-- **Discussões**: [GitHub Discussions](https://github.com/seu-usuario/scrum-tool/discussions)
-- **Email**: suporte@olimpiapartners.com
-
-### FAQ
-
-**P: Como posso personalizar os campos da Daily?**
-R: Atualmente os campos são fixos, mas a personalização está planejada para a versão 1.2.0.
-
-**P: A aplicação funciona offline?**
-R: Parcialmente. Os dados são mantidos durante a sessão, mas não há persistência offline completa ainda.
-
-**P: Posso integrar com Jira?**
-R: A integração com Jira está no roadmap para versão 2.0.0.
-
----
-
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
