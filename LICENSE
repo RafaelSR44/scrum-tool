@@ -1,0 +1,49 @@
+MIT License
+
+Copyright (c) 2025 Olimpia Partners
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms for Educational Use
+
+This project was developed as part of an academic initiative by Olimpia Partners.
+While the MIT License grants broad usage rights, we encourage:
+
+1. **Attribution**: Please credit Olimpia Partners when using this code in educational contexts
+2. **Learning Purpose**: This code is optimized for learning Scrum methodologies and React development
+3. **Community Contribution**: Consider contributing improvements back to the project
+4. **Educational Fair Use**: Students and educators are especially welcome to use and modify this code
+
+## Third-Party Licenses
+
+This project uses the following open-source libraries:
+- React (MIT License)
+- Tailwind CSS (MIT License)
+- Lucide React (ISC License)
+- Testing Library (MIT License)
+
+For complete license information of dependencies, see package.json and individual package documentation.
+
+## Contact
+
+For license questions or commercial use inquiries:
+- Email: rafael.rodrigues@olimpiapartners.com.br
+- Project: https://github.com/RafaelSR44/scrum-tool

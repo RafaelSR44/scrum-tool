@@ -3,9 +3,10 @@ import { Users, Calendar, CheckSquare, Plus, Trash2, AlertCircle, Move, FileText
 
 const ScrumTool = () => {
   const [teamMembers, setTeamMembers] = useState([
-    { id: 1, name: 'Ana Silva', role: 'Developer' },
-    { id: 2, name: 'João Santos', role: 'Designer' },
-    { id: 3, name: 'Maria Costa', role: 'QA' }
+    { id: 1, name: 'Rafael Santana', role: 'Estagiário' },
+    { id: 2, name: 'Vinicius Alves', role: 'Estagiário' },
+    { id: 3, name: 'João Santos', role: 'Estagiário' },
+    { id: 4, name: 'Gustavo Diniz', role: 'Gerente do Projeto' }
   ]);
   
   const [newMemberName, setNewMemberName] = useState('');
